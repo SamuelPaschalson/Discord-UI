@@ -2,7 +2,7 @@
 DISCORD UI Clone
 
 # About 
-This is an ordinary Discord ui clone but overtime it would be come a fully functional Discord clone. that works with its own custom API and all other functionality
+This is an ordinary Discord ui clone but overtime it would be come a fully functional Discord clone, that works with its own custom API and all other functionality
 
 # Contact me
 Reach me on Gmail: [samuelpaschalson@gmail.com](samuelpaschalson@gmail.com)
